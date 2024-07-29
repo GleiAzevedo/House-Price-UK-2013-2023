@@ -4,7 +4,7 @@ Is the price of the house really increasing? If yes, for how much? Is this true 
 
 # Dataset description
 
-For this project the datasets used can be found in the [UK government website](https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-december-2023?utm_medium=GOV.UK&utm_source=summary&utm_campaign=UK_HPI_Summary&utm_term=9.30_14_02_24&utm_content=download_data). Data is available at a national and regional level, as well as counties, local authorities and London boroughs.
+For this project the datasets used can be found in the [UK government website](https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-december-2023?utm_medium=GOV.UK&utm_source=summary&utm_campaign=UK_HPI_Summary&utm_term=9.30_14_02_24&utm_content=download_data). The data is available at a national and regional level, as well as counties, local authorities and London boroughs.
 The database used here presents 4 tables:
 + The tblYearlyAverage contains Average House price; 
 + The Average House Price and House Price Index by buyer position, whether it is a first time buyer or a previous owner, can be found in the tblYearlyBuyerPosition;
